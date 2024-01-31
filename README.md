@@ -22,6 +22,13 @@ Structure, folders are in bold:
     - friendsconcattedframe _Concatenated frame of alle separate Friends frames_
     - EDA DS3 Friends.ipynb
     - **movie-corpus**
+      - utterances.json _Contains Friends data_
+      - index.json _Not used_
+      - speakers.json 
+      - conversations.json _Not used_
+      - users.json _Not used_
+      - corpus.json _Not used_
+    - **friends-corpus**
       - utterances.json _Contains movie data_
       - index.json _Not used_
       - speakers.json
