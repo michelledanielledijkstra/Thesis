@@ -18,6 +18,8 @@ Structure, folders are in bold:
     - processedDS2sparks.pkl _Dictionary of Cornell Corpus movie frames processed with Spark_
     - processedDS2concattedframe.pkl _Concatenated frame of alle separate Cornell Corpus frames_
     - Data Cleaning and Loading Friends Corpus.ipynb
+    - friendssparks.pkl _Dictionary of Friends episode frames processed with Spark_
+    - friendsconcattedframe _Concatenated frame of alle separate Friends frames_
     - **movie-corpus**
       - utterances.json _Contains movie data_
       - index.json _Not used_
