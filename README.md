@@ -27,7 +27,7 @@ Structure, folders are in bold:
       - speakers.json
       - conversations.json _Not used_
       - corpus.json _Containts movie titles, used to link to frames_  
-  - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
+  - **DATA** 
     - WTranslationsOpenSubtitles.pkl _Dictionairy of all dataframes of OpenSubtitles data with translations_
     - WTranslationsConcatOS.pkl _Concatenated dataframe of all dataframes of OpenSubtitles data with translations_
     - newdfs.pkl _OpenSubtitles dictionairy of dataframes_
