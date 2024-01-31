@@ -1,6 +1,7 @@
 # A multilingual Temporal Convolutional Network for Speaker Change Detection on Movie and Series Scripts Data
 
 All the code is in Google Colab, instead of the translator.py. This file contains information about files and folders.
+Files that include analysis, can have commented print statements in there. To see the output, uncomment these.
 
 Structure, folders are in bold:
 - **Other**
@@ -13,6 +14,16 @@ Structure, folders are in bold:
   - Model selection TCNs.ipynb
   - Test_TCNs.ipynb
   - **EXTRA DATASET**
+    - Data Loading and Cleaning Cornell Corpus.ipynb
+    - processedDS2sparks.pkl _Dictionary of Cornell Corpus movie frames processed with Spark_
+    - processedDS2concattedframe.pkl _Concatenated frame of alle separate Cornell Corpus frames_
+    - Data Cleaning and Loading Friends Corpus.ipynb
+    - **movie-corpus**
+      - utterances.json _Contains movie data_
+      - index.json _Not used_
+      - speakers.json
+      - conversations.json _Not used_
+      - corpus.json _Containts movie titles, used to link to frames_  
   - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
     - WTranslationsOpenSubtitles.pkl _Dictionairy of all dataframes of OpenSubtitles data with translations_
     - WTranslationsConcatOS.pkl _Concatenated dataframe of all dataframes of OpenSubtitles data with translations_
