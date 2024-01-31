@@ -15,7 +15,11 @@ Structure, folders are in bold:
   - **EXTRA DATASET**
   - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
     - WTranslationsOpenSubtitles.pkl _Dictionairy of all dataframes of OpenSubtitles data with translations_
-    - WTranslationsConcatOS.pkl _Concatenated dataframe of all dataframes of OpenSubtitles data with translations_    
+    - WTranslationsConcatOS.pkl _Concatenated dataframe of all dataframes of OpenSubtitles data with translations_
+    - WTLOpenSubtitlesTrainingSet.pkl
+    - WTLOpenSubtitlesValidationSet.pkl
+    - WTLOpenSubtitlesTestSet.pkl
+    - YSWTLOpenSubtitlesTrainingSet.pkl _List of train, validation and test labels_
     - **sentences**
       - 7467 sentence (script sentences) and speaker files (speaker tags)
     - **translations**
