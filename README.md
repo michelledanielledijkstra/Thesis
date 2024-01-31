@@ -11,7 +11,7 @@ Structure, folders are in bold:
   - OpenSubtitles Data Anlysis and Cleaning.ipynb
   - CreateBERTS and data split.ipynb
   - Model selection TCNs.ipynb
-  - Test_TCNs.ipynb
+  - Test_TCNs.ipynb _Test results, including plots_
   - **EXTRA DATASET**
     - Data Loading and Cleaning Cornell Corpus.ipynb
     - processedDS2sparks.pkl _Dictionary of Cornell Corpus movie frames processed with Spark_
