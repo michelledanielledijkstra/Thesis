@@ -4,12 +4,12 @@ All the code is in Google Colab, instead of the translator.py. This file contain
 
 Structure, folders are in bold:
 - **Other**
-- -- translator.py _In this file, the numbers were changed on every run (and not kept)_
-- --ds2translator.py _In this file, the numbers were changed on every run (and not kept)_
+  - translator.py _In this file, the numbers were changed on every run (and not kept)_
+  - ds2translator.py _In this file, the numbers were changed on every run (and not kept)_
 - **Code**
-- EDA OpenSubtitles.ipynb
-- OpenSubtitles Data Anlysis and Cleaning.ipynb
-- - - **EXTRA DATASET**
-- - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
+  - EDA OpenSubtitles.ipynb
+  - OpenSubtitles Data Anlysis and Cleaning.ipynb
+  - **EXTRA DATASET**
+  - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
   - **sentences**
-  - - 7467 sentence (script sentences) and speaker files (speaker tags)
+    - 7467 sentence (script sentences) and speaker files (speaker tags)
