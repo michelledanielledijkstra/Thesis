@@ -11,5 +11,5 @@ Structure, folders are in bold:
   - OpenSubtitles Data Anlysis and Cleaning.ipynb
   - **EXTRA DATASET**
   - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
-  - **sentences**
-    - 7467 sentence (script sentences) and speaker files (speaker tags)
+    - **sentences**
+      - 7467 sentence (script sentences) and speaker files (speaker tags)
