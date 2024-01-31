@@ -61,6 +61,10 @@ Structure, folders are in bold:
     - ALLDATASETYS.pkl _List of lists of labels for all datasets_
     - **sentences**
       - 7467 sentence (script sentences) and speaker files (speaker tags)
+    - **subtitles**
+      - All annotated XML files
+    - **scripts**
+      - sentences and speakers text files (script sentences, speaker tags)   
     - **translations**
       - All translations on OpenSubtitles data (original frames, with an extra column with sentences translated from English to Dutch)
       - **DS2andDS3 translations**
