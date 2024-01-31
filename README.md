@@ -4,10 +4,9 @@ All the code is in Google Colab, instead of the translator.py. This file contain
 Files that include analysis, can have commented print statements in there. To see the output, uncomment these.
 
 Structure, folders are in bold:
-- **Other**
+- **Code**
   - translator.py _In this file, the numbers were changed on every run (and not kept)_
   - ds2translator.py _In this file, the numbers were changed on every run (and not kept)_
-- **Code**
   - EDA OpenSubtitles.ipynb
   - OpenSubtitles Data Anlysis and Cleaning.ipynb
   - CreateBERTS and data split.ipynb
