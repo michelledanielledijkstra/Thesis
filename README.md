@@ -16,10 +16,20 @@ Structure, folders are in bold:
   - **DATA** (Not sure if this is allowed to be included or send per e-mail or something but structure;)
     - WTranslationsOpenSubtitles.pkl _Dictionairy of all dataframes of OpenSubtitles data with translations_
     - WTranslationsConcatOS.pkl _Concatenated dataframe of all dataframes of OpenSubtitles data with translations_
+    - newdfs.pkl _OpenSubtitles dictionairy of dataframes_
+    - sparks_dfs.pkl _OpenSubtitles dictionairy of dataframes processed with Spark_
+    - concattedframe.pkl _OpenSubtitles concattenated from of all frames_
     - WTLOpenSubtitlesTrainingSet.pkl
     - WTLOpenSubtitlesValidationSet.pkl
     - WTLOpenSubtitlesTestSet.pkl
     - YSWTLOpenSubtitlesTrainingSet.pkl _List of train, validation and test labels_
+    - WTLOpenSubtitlesTrainEmbeddings.pkl _On English sentences_
+    - WTLOpenSubtitlesValidEmbeddings.pkl _On English sentences_
+    - DutchWTLOpenSubtitlesTrainEmbeddings.pkl
+    - DutchWTLOpenSubtitlesValidEmbeddings.pkl
+    - EDembeddingsTrainValid.pkl _Training and validation set of matrix multiplication on English and Dutch BERT sentence embeddings_
+    - 4dilationsTCN.keras _Saved Keras model, including all training weights, good for reuse - trained on English OpenSubtitles data_
+    - EDosTCN.keras _Saved Keras model, including all training weights, good for reuse - trained on English-Dutch (matrix multiplication) OpenSubtitles data_
     - **sentences**
       - 7467 sentence (script sentences) and speaker files (speaker tags)
     - **translations**
