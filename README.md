@@ -51,6 +51,14 @@ Structure, folders are in bold:
     - EDembeddingsTrainValid.pkl _Training and validation set of matrix multiplication on English and Dutch BERT sentence embeddings_
     - 4dilationsTCN.keras _Saved Keras model, including all training weights, good for reuse - trained on English OpenSubtitles data_
     - EDosTCN.keras _Saved Keras model, including all training weights, good for reuse - trained on English-Dutch (matrix multiplication) OpenSubtitles data_
+    - OSpredYsforplot.pkl _Predicted Y labels for the different OpenSubtitles data (English, Dutch, English-Dutch)_
+    - Movies_test_X.pkl _BERT sentence embeddings on the English data of the Cornell Corpus
+    - Dutch_Movies_test_X.pkl _BERT sentence embeddings on the Dutch data of the Cornell Corpus
+    - Moviesysforplot.pkl _Predicted Y labels for the different Cornell Corpus data (English, Dutch, English-Dutch)_
+    - Friends_test_X.pkl _BERT sentence embeddings on the English data of the Friends Corpus
+    - Dutch_Friends_test_X.pkl _BERT sentence embeddings on the Dutch data of the Friends Corpus
+    - Friendsys.pkl _Predicted Y labels for the different Friends Corpus data (English, Dutch, English-Dutch)_
+    - ALLDATASETYS.pkl _List of lists of labels for all datasets_
     - **sentences**
       - 7467 sentence (script sentences) and speaker files (speaker tags)
     - **translations**
